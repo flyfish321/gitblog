@@ -3,9 +3,11 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 [RSS Feed](https://raw.githubusercontent.com/flyfish321/gitblog/main/feed.xml)
 
 ## 最近更新
+- [天蝎座的内心性格](https://github.com/flyfish321/gitblog/issues/4)--2024-03-21
 - [阿甘正传经典台词](https://github.com/flyfish321/gitblog/issues/3)--2024-03-21
 - [个人博客测试成功啦](https://github.com/flyfish321/gitblog/issues/2)--2024-03-21
 - [Hello, World!](https://github.com/flyfish321/gitblog/issues/1)--2024-03-21
 ## 2024
+- [天蝎座的内心性格](https://github.com/flyfish321/gitblog/issues/4)--2024-03-21
 - [阿甘正传经典台词](https://github.com/flyfish321/gitblog/issues/3)--2024-03-21
 - [个人博客测试成功啦](https://github.com/flyfish321/gitblog/issues/2)--2024-03-21
