@@ -2,6 +2,8 @@
 My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/flyfish321/gitblog/main/feed.xml)
 
+## 置顶文章
+- [2024年看过的电影](https://github.com/flyfish321/gitblog/issues/9)--2024-04-05
 ## 最近更新
 - [天蝎座](https://github.com/flyfish321/gitblog/issues/10)--2024-04-05
 - [2024年看过的电影](https://github.com/flyfish321/gitblog/issues/9)--2024-04-05
@@ -18,5 +20,3 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 - [天蝎座的内心性格](https://github.com/flyfish321/gitblog/issues/4)--2024-03-21
 ## 星座
 - [天蝎座](https://github.com/flyfish321/gitblog/issues/10)--2024-04-05
-## 电影
-- [2024年看过的电影](https://github.com/flyfish321/gitblog/issues/9)--2024-04-05
