@@ -3,10 +3,10 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 [RSS Feed](https://raw.githubusercontent.com/flyfish321/gitblog/main/feed.xml)
 
 ## 置顶文章
-- [2024年看过的电影](https://github.com/flyfish321/gitblog/issues/9)--2024-04-05
+- [我的2024](https://github.com/flyfish321/gitblog/issues/9)--2024-04-05
 ## 最近更新
 - [天蝎座](https://github.com/flyfish321/gitblog/issues/10)--2024-04-05
-- [2024年看过的电影](https://github.com/flyfish321/gitblog/issues/9)--2024-04-05
+- [我的2024](https://github.com/flyfish321/gitblog/issues/9)--2024-04-05
 - [【月记】2024年4月](https://github.com/flyfish321/gitblog/issues/8)--2024-04-01
 - [日常随笔](https://github.com/flyfish321/gitblog/issues/7)--2024-03-25
 - [图片测试](https://github.com/flyfish321/gitblog/issues/6)--2024-03-22
