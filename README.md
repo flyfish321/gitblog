@@ -16,7 +16,6 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 - [图片测试](https://github.com/flyfish321/gitblog/issues/6)--2024-03-22
 - [阿甘正传经典台词](https://github.com/flyfish321/gitblog/issues/3)--2024-03-21
 - [个人博客测试成功啦](https://github.com/flyfish321/gitblog/issues/2)--2024-03-21
-## 心得
-- [天蝎座的内心性格](https://github.com/flyfish321/gitblog/issues/4)--2024-03-21
 ## 星座
 - [天蝎座](https://github.com/flyfish321/gitblog/issues/10)--2024-04-05
+- [天蝎座的内心性格](https://github.com/flyfish321/gitblog/issues/4)--2024-03-21
